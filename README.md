@@ -11,4 +11,25 @@
   </a>
 </div>
     <br />
+
+<h2>Language and Frameworks</h2>
+
+<h3>Front-end:</h3>
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=react,vite,next,vercel,tailwind,styledcomponents,typescript,css,html" />
+</a>
+<br />
+
+<h3>Back-end:</h3>
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=go,nodejs,typescript,nestjs,prisma,postgres,redis,postman" />
+</a>
+<br />
+
+<h3>DevOps ♾️:</h3>
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" />
+</a>
+<br />
+<br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Perazzojoao&label=visitors&color=0e75b6&style=flat" alt="perazzojoao" /> </p>
