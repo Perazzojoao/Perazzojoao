@@ -28,7 +28,7 @@
 
 <h3>♾️ DevOps:</h3>
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,git,github,githubactions" />
 </a>
 <br />
 <br />
