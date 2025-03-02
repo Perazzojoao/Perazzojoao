@@ -22,7 +22,7 @@
 
 <h3>⚙️ Back-end:</h3>
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=go,nodejs,typescript,nestjs,prisma,postgres,redis,postman" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,typescript,nestjs,prisma,postgres,redis,rabbitmq,postman" />
 </a>
 <br />
 
